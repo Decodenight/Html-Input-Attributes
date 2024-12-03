@@ -1,2 +1,2 @@
-# Html-Input-Attributes-
+# Html-Input-Attributes
 All Html input attributes.
